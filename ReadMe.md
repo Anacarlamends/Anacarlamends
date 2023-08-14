@@ -1,4 +1,4 @@
-## Olá! Eu sou a Ana![Wave Animation](https://tenor.com/pt-BR/view/wave-gif-23969287.gif){:height="100px" width="50px"}
+## Olá! Eu sou a Ana![Wave Animation](https://tenor.com/pt-BR/view/wave-gif-23969287.gif){:height="100px"}
 
  
 ## 🌐 Nas Redes:
