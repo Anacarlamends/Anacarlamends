@@ -2,11 +2,13 @@
 
 
 ## 🌐 Nas Redes:
-<a href="https://www.instagram.com/_giseleporto/" alt="Instagram"> <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_annacarlac/"/></a>
+<a href="https://www.instagram.com/_giseleporto/" alt="Instagram"> <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_annacarlac/"/>
+</a>
 
-<a href="https://www.linkedin.com/in/giseleporto/" alt="Linkedin"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anacarlamendess/" /></a>
+<a href="https://www.linkedin.com/in/giseleporto/" alt="Linkedin"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anacarlamendess/" />
+</a>
 
-<a href="mailto:anacarlamendes.ti@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:anacarlamendes.ti@gmail.com" />
+<a href="mailto:anacarlamendes.ti@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:anacarlamendes.ti@gmail.com"/>
 </a>
 
 # 💻 Tech:
