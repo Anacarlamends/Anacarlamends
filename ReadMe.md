@@ -1,4 +1,6 @@
-## Olá! Eu sou a Ana (https://tenor.com/pt-BR/view/quby-high-five-wave-pentol-qubysani-gif-19935273)
+##<div class="container">
+        <p class="text">Olá! Eu sou a Ana <img src="https://tenor.com/view/quby-high-five-wave-pentol-qubysani-gif-19935273.gif" alt="Mãozinha dando tchau" width="100"></p>
+    </div>
 
 
 ## 🌐 Nas Redes:
