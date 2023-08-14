@@ -1,7 +1,5 @@
-## Olá! Eu sou a Ana![Wave Animation](https://tenor.com/pt-BR/view/waving-wave-hello-wave-bye-waving-good-bye-pusheen-gif-13657983)
+##👋Olá! Eu sou a Ana
 
-
- 
 ## 🌐 Nas Redes:
 <a href="https://instagram.com/_annacarlac">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
