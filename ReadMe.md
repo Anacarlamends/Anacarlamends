@@ -1,6 +1,5 @@
-## Olá! Eu sou a Ana 
-
-
+## Olá! Eu sou a Ana![Wave Animation](https://tenor.com/pt-BR/view/wave-gif-23969287.gif)
+ 
 ## 🌐 Nas Redes:
 <a href="https://instagram.com/_annacarlac">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
