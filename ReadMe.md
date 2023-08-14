@@ -26,6 +26,3 @@
 <div align="center">
   
 
-![star-wars-funny-icegif-20](https://user-images.githubusercontent.com/132604471/236534741-5e0d4c91-d6de-4f4a-bbf3-538df8ea5049.gif)
-
-  **Contador De Visitas**
