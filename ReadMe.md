@@ -13,16 +13,17 @@
 </a>
 
 # 💻 Tech:
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Expo](https://img.shields.io/badge/Expo-%231C1E24.svg?style=for-the-badge&logo=expo&logoColor=%23D04A37)
-![React Native](https://img.shields.io/badge/React_Native-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-%2300F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Css](http://img.shields.io/badge/-CSS-2a65f1?style=for-the-badge&logo=css3&logoColor=white)
+![Html](http://img.shields.io/badge/-HTML-e24c27?style=for-the-badge&logo=html5&logoColor=white)
+![Java](http://img.shields.io/badge/-Java-fcd400?style=for-the-badge&logo=java&logoColor=black)
+![Javascript](http://img.shields.io/badge/-JavaScript-fcd400?style=for-the-badge&logo=javascript&logoColor=black)
+![Expo](http://img.shields.io/badge/-Expo-fcd400?style=for-the-badge&logo=expo&logoColor=black)
+![React Native](http://img.shields.io/badge/-React_Native-fcd400?style=for-the-badge&logo=react&logoColor=black)
+![MySQL](http://img.shields.io/badge/-MySQL-fcd400?style=for-the-badge&logo=mysql&logoColor=black)
+![Canva](http://img.shields.io/badge/-Canva-fcd400?style=for-the-badge&logo=canva&logoColor=black)
+![Figma](http://img.shields.io/badge/-Figma-fcd400?style=for-the-badge&logo=figma&logoColor=black)
+![Trello](http://img.shields.io/badge/-Trello-fcd400?style=for-the-badge&logo=trello&logoColor=black)
+
 
 <div align="center">
   
