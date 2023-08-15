@@ -13,7 +13,7 @@
 </a>
 
 # 💻 Tech:
-![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
 ![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
 ![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
