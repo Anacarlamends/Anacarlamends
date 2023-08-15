@@ -13,16 +13,17 @@
 </a>
 
 # 💻 Tech:
-![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
-![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white) 
-![Java](http://img.shields.io/badge/-Java-fcd400?style=flat-square&logo=java&logoColor=black)
-![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
-![Expo](http://img.shields.io/badge/-expo-fcd400?style=flat-square&logo=expo&logoColor=black)
-![React Native](http://img.shields.io/badge/-reactnative-fcd400?style=flat-square&logo=reactnative&logoColor=black)
-![MySQL](http://img.shields.io/badge/-mysql-fcd400?style=flat-square&logo=mysql&logoColor=black)
-![Canva](http://img.shields.io/badge/-canva-fcd400?style=flat-square&logo=canva&logoColor=black)
-![Figma](http://img.shields.io/badge/-figma-fcd400?style=flat-square&logo=figma&logoColor=black)
-![Trello](http://img.shields.io/badge/-trello-fcd400?style=flat-square&logo=trello&logoColor=black)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
+
 
 
 <div align="center">
