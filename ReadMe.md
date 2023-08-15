@@ -13,15 +13,17 @@
 </a>
 
 # 💻 Tech:
-![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white) ![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white) ![Java](http://img.shields.io/badge/-Java-fcd400?style=flat-square&logo=java&logoColor=black)
+![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
+![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white) 
+![Java](http://img.shields.io/badge/-Java-fcd400?style=flat-square&logo=java&logoColor=black)
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
 ![Expo](http://img.shields.io/badge/-expo-fcd400?style=flat-square&logo=expo&logoColor=black)
 
-![Python](http://img.shields.io/badge/-Python-346e9e?style=flat-square&logo=python&logoColor=white)
-![MongoDb](http://img.shields.io/badge/-MongoDb-white?style=flat-square&logo=mongodb)
-![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
-![Sql](http://img.shields.io/badge/-Sql-00758f?style=flat-square&logo=Mysql&logoColor=white)
-![Markdown](http://img.shields.io/badge/-Markdown-white?style=flat-square&logo=markdown&logoColor=black)
+![React Native](http://img.shields.io/badge/-expo-fcd400?style=flat-square&logo=expo&logoColor=black)
+![MySQL](http://img.shields.io/badge/-expo-fcd400?style=flat-square&logo=expo&logoColor=black)
+![Canva](http://img.shields.io/badge/-expo-fcd400?style=flat-square&logo=expo&logoColor=black)
+![Figma](http://img.shields.io/badge/-expo-fcd400?style=flat-square&logo=expo&logoColor=black)
+![Trello](http://img.shields.io/badge/-expo-fcd400?style=flat-square&logo=expo&logoColor=black)
 
 
 <div align="center">
