@@ -18,11 +18,11 @@
 ![Java](http://img.shields.io/badge/-Java-fcd400?style=flat-square&logo=java&logoColor=black)
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
 ![Expo](http://img.shields.io/badge/-expo-fcd400?style=flat-square&logo=expo&logoColor=black)
-![React Native](http://img.shields.io/badge/-expo-fcd400?style=flat-square&logo=expo&logoColor=black)
-![MySQL](http://img.shields.io/badge/-expo-fcd400?style=flat-square&logo=expo&logoColor=black)
-![Canva](http://img.shields.io/badge/-expo-fcd400?style=flat-square&logo=expo&logoColor=black)
-![Figma](http://img.shields.io/badge/-expo-fcd400?style=flat-square&logo=expo&logoColor=black)
-![Trello](http://img.shields.io/badge/-expo-fcd400?style=flat-square&logo=expo&logoColor=black)
+![React Native](http://img.shields.io/badge/-reactnative-fcd400?style=flat-square&logo=reactnative&logoColor=black)
+![MySQL](http://img.shields.io/badge/-mysql-fcd400?style=flat-square&logo=mysql&logoColor=black)
+![Canva](http://img.shields.io/badge/-canva-fcd400?style=flat-square&logo=canva&logoColor=black)
+![Figma](http://img.shields.io/badge/-figma-fcd400?style=flat-square&logo=figma&logoColor=black)
+![Trello](http://img.shields.io/badge/-trello-fcd400?style=flat-square&logo=trello&logoColor=black)
 
 
 <div align="center">
