@@ -18,7 +18,6 @@
 ![Java](http://img.shields.io/badge/-Java-fcd400?style=flat-square&logo=java&logoColor=black)
 ![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
 ![Expo](http://img.shields.io/badge/-expo-fcd400?style=flat-square&logo=expo&logoColor=black)
-
 ![React Native](http://img.shields.io/badge/-expo-fcd400?style=flat-square&logo=expo&logoColor=black)
 ![MySQL](http://img.shields.io/badge/-expo-fcd400?style=flat-square&logo=expo&logoColor=black)
 ![Canva](http://img.shields.io/badge/-expo-fcd400?style=flat-square&logo=expo&logoColor=black)
