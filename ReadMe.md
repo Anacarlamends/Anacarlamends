@@ -10,8 +10,6 @@
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email">
 </a>
 
-  
-
 # 💻 Tech:
 
 <br>
