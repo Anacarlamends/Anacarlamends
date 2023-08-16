@@ -2,7 +2,7 @@
 
 ## 🌐 Nas Redes:
 
-<a href="https://linkedin.com/in/https://www.linkedin/in/anacarlamendess">
+<a href="https://linkedin.com/in/anacarlamendess">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
