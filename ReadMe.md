@@ -1,9 +1,15 @@
 ## 👋Olá! Eu sou a Ana
 
 ## 🌐 Nas Redes:
-  <a href="https://instagram.com/_annacarlac" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-  <a href = "mailto:anacarlamendes.ti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_red"></a>
+
+<a href="https://linkedin.com/in/https://www.linkedin/in/anacarlamendess">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="mailto:anacarlamendes.ti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email">
+</a>
+
   
 
 # 💻 Tech:
