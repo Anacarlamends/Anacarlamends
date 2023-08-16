@@ -14,10 +14,6 @@
 
 # 💻 Tech:
 
-
-
-<br> <!-- Adding a line break for spacing -->
-
 <a href="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </a>
