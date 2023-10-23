@@ -19,7 +19,7 @@
         </div>
     </a>
     <a href="mailto:anacarlamendes.ti@gmail.com">
-        <div style="display: inline-block; background-color: #D14836; color: #fff; padding: 5px 10px; border-radius: 5px;">
+        <div style="display: inline-block; background-color: #D14836; color: #fff; padding:  10px; border-radius: 5px;">
             <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email">
         </div>
     </a>
