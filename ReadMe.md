@@ -16,11 +16,12 @@
  
 <div> 
    
- <a href="mailto:contatorafaballerini@gmail.com" style="text-decoration: none; background-color: #FF0000; color: #fff; padding: 5px 10px; border-radius: 5px;">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:anacarlamendes.ti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" style="width: 24px;">
+<a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
 
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
- 
 </div>
 
 
