@@ -17,7 +17,7 @@
 <div> 
    
 <a href="mailto:anacarlamendes.ti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email" style="width: 24px;">
+    <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
