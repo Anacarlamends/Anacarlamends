@@ -17,7 +17,7 @@
 <div> 
    
  <a href="mailto:contatorafaballerini@gmail.com">
-    <div style="display: inline-block; background-color: #FF0000; color: #fff; padding: 5px 10px; border-radius: 5px;">
+    <div style="display: inline-block; background-color: #FF0000; color: red; padding: 5px 10px; border-radius: 5px;">
         <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </div>
 </a>
