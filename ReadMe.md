@@ -12,11 +12,18 @@
   <img align="center" alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
 </div>
 
-  <a href="https://linkedin.com/in/anacarlamendess">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:anacarlamendes.ti@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email">
-</a>
+ <div>
+    <a href="https://linkedin.com/in/anacarlamendess">
+        <div style="display: inline-block; background-color: #0077B5; color: #fff; padding: 5px 10px; border-radius: 5px;">
+            <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+        </div>
+    </a>
+    <a href="mailto:anacarlamendes.ti@gmail.com">
+        <div style="display: inline-block; background-color: #D14836; color: #fff; padding: 5px 10px; border-radius: 5px; margin-left: 10px;">
+            <img src="https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white" alt="Email">
+        </div>
+    </a>
+</div>
+
   
 
