@@ -1,11 +1,4 @@
-<video width="320" height="240" controls>
-  <source src="https://github.com/Anacarlamends/Anacarlamends/raw/main/git.mp4" type="video/mp4">
-  Seu navegador não suporta o elemento de vídeo.
-</video>
-
-![Texto alternativo](https://github.com/Anacarlamends/Anacarlamends/raw/main/git.mp4)
-
-
+![apresentação](https://github.com/Anacarlamends/Anacarlamends/assets/119385159/ea18adef-dbde-4ebd-9948-7edc30b695b8)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
