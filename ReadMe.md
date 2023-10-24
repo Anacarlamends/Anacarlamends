@@ -3,6 +3,8 @@
   Seu navegador não suporta o elemento de vídeo.
 </video>
 
+![Texto alternativo](https://github.com/Anacarlamends/Anacarlamends/raw/main/git.mp4)
+
 
 
 <div style="display: inline_block"><br>
