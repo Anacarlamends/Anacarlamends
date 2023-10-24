@@ -1,4 +1,6 @@
-![apresentação](https://github.com/Anacarlamends/Anacarlamends/assets/119385159/ea18adef-dbde-4ebd-9948-7edc30b695b8)
+<h1 align="center">Olá! eu sou Ana Carla 👋</h1>
+<h3 align="center">Estudante em Constante Desenvolvimento.</h3>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
