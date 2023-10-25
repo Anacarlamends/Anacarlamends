@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23bcc8d5&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Ana+Carla+:%29;)](https://git.io/typing-svg)
 
-<p align="right">
-<img aling="right" alt="Coding" width="300" src="https://werepstem.com/wp-content/uploads/sites/2/2020/09/Untitled-design-4.gif">
-</p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
