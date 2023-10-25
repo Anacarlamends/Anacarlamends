@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23bcc8d5&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Ana+Carla+:%29;)](https://git.io/typing-svg)
 
-
+<p align="right">
 <img aling="right" alt="Coding" width="300" src="https://werepstem.com/wp-content/uploads/sites/2/2020/09/Untitled-design-4.gif">
-
+</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
