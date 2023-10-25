@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="300" src="https://werepstem.com/wp-content/uploads/sites/2/2020/09/Untitled-design-4.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label alt="ashutosh-pmishra">
+  <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label >
 </p>
 
 
