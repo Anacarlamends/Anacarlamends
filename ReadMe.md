@@ -1,5 +1,6 @@
 <h1 align="center">Olá! eu sou Ana Carla 👋</h1>
 <h3 align="center">Estudante em Constante Desenvolvimento.</h3>
+<img aling="right" alt="Coding" width="400" src="https://werepstem.com/wp-content/uploads/sites/2/2020/09/Untitled-design-4.gif">
 
 
 <div style="display: inline_block"><br>
