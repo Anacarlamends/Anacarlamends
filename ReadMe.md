@@ -25,10 +25,11 @@
  </div>
 
 #
-<div style="display: flex; flex-direction: row; justify-content: center;">
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=Anacarlamends&theme=nord&hide_border=true&include_all_commits=true&count_private=false" width="355" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anacarlamends&theme=nord&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="355"/>
 </div>
+
 
 
 
