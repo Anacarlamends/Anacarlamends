@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#fb75edsize=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Ana+Carla+:%29;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#fb75ed&size=35&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Ana+Carla+:%29;)](https://git.io/typing-svg)
 
 <img aling="right" alt="Coding" width="400" src="https://werepstem.com/wp-content/uploads/sites/2/2020/09/Untitled-design-4.gif">
 
