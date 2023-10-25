@@ -29,7 +29,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Anacarlamends&theme=nord&hide_border=true&include_all_commits=true&count_private=false" width="31%" 
   />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anacarlamends&theme=nord&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="20%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anacarlamends&theme=nord&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="30%" />
 
 </p>
   
