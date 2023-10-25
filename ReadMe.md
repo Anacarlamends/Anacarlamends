@@ -2,11 +2,10 @@
 
 <img align="right" alt="Coding" width="270" src="https://werepstem.com/wp-content/uploads/sites/2/2020/09/Untitled-design-4.gif">
 
-<p align="left" style="margin-left: -60px;">
-  <img src="https://werepstem.com/>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label >
 </p>
-
-
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
