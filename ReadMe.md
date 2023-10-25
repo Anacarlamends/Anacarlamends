@@ -2,11 +2,9 @@
 
 <img align="right" alt="Coding" width="270" src="https://werepstem.com/wp-content/uploads/sites/2/2020/09/Untitled-design-4.gif">
 
-<p align="left" style="margin-left: 40px;">
-  <img src="https://komarev.com/ghpvc/">
+<p align="left" style="margin-left: 20px;">
+  <img src="https://werepstem.com/wp-content/uploads/sites/2/2020/09/Untitled-design-4.gif >
 </p>
-
-
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
