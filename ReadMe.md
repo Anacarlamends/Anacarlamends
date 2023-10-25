@@ -26,7 +26,7 @@
 
 #
 <div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anacarlamends&theme=nord&hide_border=true&include_all_commits=true&count_private=false" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Anacarlamends&theme=nord&hide_border=true&include_all_commits=true&count_private=false" width="425" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anacarlamends&theme=nord&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="400" />
 </div>
 
