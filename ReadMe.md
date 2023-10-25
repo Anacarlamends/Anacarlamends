@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="270" src="https://werepstem.com/wp-content/uploads/sites/2/2020/09/Untitled-design-4.gif">
 
 <p align="left" style="margin-left: -60px;">
-  <img src="https://werepstem.com/wp-content/uploads/sites/2/2020/09/Untitled-design-4.gif">
+  <img src="https://werepstem.com/>
 </p>
 
 
