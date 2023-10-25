@@ -26,12 +26,9 @@
  </div>
 
 #
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Anacarlamends&theme=nord&hide_border=true&include_all_commits=true&count_private=false" width="31%" 
-  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anacarlamends&theme=nord&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="29%" />
 
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Anacarlamends&theme=nord&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anacarlamends&theme=nord&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
   
 
 
