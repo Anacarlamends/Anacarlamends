@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23bcc8d5&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Ana+Carla+:%29;)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="320" src="https://werepstem.com/wp-content/uploads/sites/2/2020/09/Untitled-design-4.gif">
+<img align="right" alt="Coding" width="290" src="https://werepstem.com/wp-content/uploads/sites/2/2020/09/Untitled-design-4.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label >
