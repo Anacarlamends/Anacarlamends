@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="270" src="https://werepstem.com/wp-content/uploads/sites/2/2020/09/Untitled-design-4.gif">
 
-<p align="left" style="margin-left: 20px;">
+<p align="left" style="margin-left: 40px;">
   <img src="https://komarev.com/ghpvc/">
 </p>
 
