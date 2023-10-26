@@ -24,11 +24,6 @@
   <a href="https://www.linkedin.com/in/anacarlamendess" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
-#
-<div style="display: flex; flex-direction: row; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anacarlamends&theme=nord&hide_border=true&include_all_commits=true&count_private=false" width="340" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anacarlamends&theme=nord&hide_border=true&include_all_commits=true&count_private=false&layout=compact" width="319"/>
-</div>
 
 
 
