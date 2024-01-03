@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23bcc8d5&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Ana+Carla+:%29;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23FFB6C1&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+Me+chamo+Ana+Carla+%3A%29;)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="233" src="https://werepstem.com/wp-content/uploads/sites/2/2020/09/Untitled-design-4.gif">
 
