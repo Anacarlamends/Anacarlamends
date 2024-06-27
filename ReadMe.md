@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/anacarlamendess" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
-<img align="center" alt="Coding" width="450" src="https://werepstem.com/wp-content/uploads/sites/2/2020/09/Untitled-design-4.gif">
+<img align="center" alt="Coding" width="140" src="https://github.com/Anacarlamends/Anacarlamends/assets/119385159/34ef95a1-91dc-4b27-863e-fbb8a6c0ce29">
 
 <div align="center">
 
