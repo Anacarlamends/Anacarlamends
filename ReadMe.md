@@ -4,7 +4,6 @@
 ##
 
 - 🚀 Explorando atualmente: Python | IA </strong>
-- 📚 Acadêmico: 6 período </strong>
 - 🌐 idioma: Inglês Intermediário
 
   
