@@ -3,7 +3,7 @@
 
 ##
 
-- 🚀 Explorando atualmente: Python | IA </strong>
+- 🚀 Explorando atualmente: ReactJS | IA </strong>
 - 🌐 idioma: Inglês Intermediário
 
   
