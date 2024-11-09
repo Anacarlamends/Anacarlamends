@@ -3,7 +3,7 @@
 
 ##
 - 📚 Estudante Universitária de Sistemas de Informação
-- 🚀 Explorando atualmente: ReactJS | IA </strong>
+- 🚀 Explorando atualmente: ReactJS | React Native </strong>
 - 🌐 idioma: Inglês Intermediário
 
   
