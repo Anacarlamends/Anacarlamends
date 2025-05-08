@@ -24,10 +24,11 @@
 <div style="display: inline_block"><br>
 <div>
   <div style="display: flex; gap: 10px; align-items: center;">
-  <img alt="JavaScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="TypeScript" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  
+  <img alt="JavaScript" height="30" width="30" src="https://img.icons8.com/color/48/javascript.png">
+  <img alt="React" height="30" width="30" src="https://img.icons8.com/officel/40/react.png">
+  <img alt="TypeScript" height="30" width="30" src="https://img.icons8.com/color/48/typescript.png">
+  <img alt="HTML" height="30" width="30" src="https://img.icons8.com/color/48/html-5--v1.png">
   <img alt="CSS" height="30" width="30" src="https://img.icons8.com/color/48/css3.png">
   <img alt="Figma" height="30" width="30" src="https://img.icons8.com/color/48/figma--v1.png">
   <img alt="Canva" height="30" width="30" src="https://img.icons8.com/color/48/canva.png">
